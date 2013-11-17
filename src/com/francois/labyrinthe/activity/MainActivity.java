@@ -1,4 +1,8 @@
-package com.francois.labyrinthe;
+package com.francois.labyrinthe.activity;
+
+import com.francois.labyrinthe.R;
+import com.francois.labyrinthe.R.layout;
+import com.francois.labyrinthe.R.menu;
 
 import android.os.Bundle;
 import android.app.Activity;
